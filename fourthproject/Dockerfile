@@ -1,5 +1,5 @@
-#FROM mcr.microsoft.com/dotnet/framework/samples:aspnetapp
-FROM mcr.microsoft.com/windows/servercore:ltsc2019
+FROM mcr.microsoft.com/dotnet/framework/samples:aspnetapp
+#FROM mcr.microsoft.com/windows/servercore:ltsc2019
 RUN mkdir -p c:\inetpub\wwwroot\myApp
 SHELL ["powershell"]
 RUN ["powershell.exe", "Install-WindowsFeature NET-Framework-45-ASPNET"]
