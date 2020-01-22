@@ -16,10 +16,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/11/2013 01:29:20</publishTime>
     </File>
     <File Include="bin/fourthproject.dll">
-      <publishTime>11/21/2019 15:11:46</publishTime>
+      <publishTime>01/22/2020 14:52:39</publishTime>
     </File>
     <File Include="bin/fourthproject.pdb">
-      <publishTime>11/21/2019 15:11:46</publishTime>
+      <publishTime>01/22/2020 14:52:39</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.TelemetryCorrelation.dll">
       <publishTime>06/29/2017 00:05:26</publishTime>
@@ -166,7 +166,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/21/2019 15:05:20</publishTime>
     </File>
     <File Include="Dockerfile">
-      <publishTime>11/21/2019 15:08:28</publishTime>
+      <publishTime>01/20/2020 14:04:36</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>11/21/2019 15:05:20</publishTime>
@@ -235,7 +235,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>11/21/2019 15:05:20</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>11/21/2019 15:05:20</publishTime>
+      <publishTime>12/05/2019 14:58:09</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
       <publishTime>11/21/2019 15:05:20</publishTime>
